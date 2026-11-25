@@ -1,0 +1,531 @@
+{
+ "p1": {
+  "caption": "🌐 Website or web app? Which one does your business need?\n\n📄 Website: shows who you are, builds trust, gets you found on Google\n⚙️ Web app: does the work, with logins, bookings, payments and dashboards\n\nNot sure which? Many businesses start with a website and add app features as they grow.\n\nTell us your idea and we'll recommend what fits. Message us or visit webelle.ae 💚\n\nموقع إلكتروني أم تطبيق ويب؟ 🌐\n\n#WebDevelopment #WebApp #WebsiteDesign #SoftwareDevelopment #DubaiBusiness #UAE #WeBelle",
+  "cover": {
+   "color": "#FFE9A8",
+   "pill": "Web & Software",
+   "graphic": {
+    "kind": "chips",
+    "items": [
+     "Website",
+     "Web app"
+    ]
+   },
+   "head": [
+    "Website or",
+    "web app?"
+   ],
+   "ar": "موقع إلكتروني أم تطبيق ويب؟",
+   "sub": "Which one does your business need?"
+  },
+  "slides": [
+   {
+    "color": "#C7E4FF",
+    "kicker": "Websites",
+    "head": [
+     "A website tells",
+     "people who",
+     "you are."
+    ],
+    "body": "Best for showing your services, building trust and getting found on Google.",
+    "graphic": {
+     "kind": "chips",
+     "items": [
+      "Home",
+      "Services",
+      "About",
+      "Contact"
+     ]
+    }
+   },
+   {
+    "color": "#D9D2FF",
+    "kicker": "Web apps",
+    "head": [
+     "A web app",
+     "does the work."
+    ],
+    "body": "Best when customers need to log in, book, pay or manage something online.",
+    "graphic": {
+     "kind": "chips",
+     "items": [
+      "Login",
+      "Booking",
+      "Payments",
+      "Dashboard"
+     ]
+    }
+   },
+   {
+    "color": "#C5F2DC",
+    "kicker": "Choose a website if",
+    "head": [
+     "You want to be",
+     "found and trusted."
+    ],
+    "body": "You offer services, want new leads, and need a professional presence fast.",
+    "graphic": {
+     "kind": "chips",
+     "items": [
+      "Leads",
+      "Trust",
+      "Google"
+     ]
+    }
+   },
+   {
+    "color": "#FFD3C2",
+    "kicker": "Choose a web app if",
+    "head": [
+     "You want to",
+     "automate."
+    ],
+    "body": "You manage orders, clients or bookings by hand and want to save time.",
+    "graphic": {
+     "kind": "chips",
+     "items": [
+      "Orders",
+      "Clients",
+      "Bookings"
+     ]
+    }
+   },
+   {
+    "color": "#FFC7E4",
+    "kicker": "Not sure?",
+    "head": [
+     "Many start with",
+     "a website."
+    ],
+    "body": "Start simple, then add app features as your business grows. We can plan both.",
+    "graphic": {
+     "kind": "chips",
+     "items": [
+      "Start",
+      "Grow",
+      "Scale"
+     ]
+    }
+   }
+  ],
+  "cta": {
+   "head": [
+    "Not sure which?",
+    "Ask us."
+   ],
+   "body": "Tell us your idea and we'll recommend what fits, in plain language."
+  }
+ },
+ "p2": {
+  "caption": "🚀 From idea to launch: how a WeBelle project works\n\n1️⃣ Discover: we learn your business and goals first\n2️⃣ Design: you see the look and flow before we build\n3️⃣ Build: fast, secure and mobile-first\n4️⃣ Launch: we test, publish and connect it to Google\n\nAnd after launch, ongoing support and updates are available as you grow.\n\nReady to start step 1? Message us or visit webelle.ae 💚\n\nمن الفكرة إلى الإطلاق 🚀\n\n#WebDevelopment #WebDesign #SoftwareDevelopment #DubaiBusiness #UAE #DigitalAgency #WeBelle",
+  "cover": {
+   "color": "#C5F2DC",
+   "pill": "How we work",
+   "graphic": {
+    "kind": "steps",
+    "active": 1
+   },
+   "head": [
+    "From idea to",
+    "launch."
+   ],
+   "ar": "من الفكرة إلى الإطلاق",
+   "sub": "How a WeBelle project works."
+  },
+  "slides": [
+   {
+    "color": "#C7E4FF",
+    "kicker": "Step 1",
+    "head": [
+     "Discover."
+    ],
+    "body": "We learn about your business, goals and customers before designing anything.",
+    "graphic": {
+     "kind": "steps",
+     "active": 1
+    }
+   },
+   {
+    "color": "#D9D2FF",
+    "kicker": "Step 2",
+    "head": [
+     "Design."
+    ],
+    "body": "You see the look and the flow, in English and Arabic, before we build.",
+    "graphic": {
+     "kind": "steps",
+     "active": 2
+    }
+   },
+   {
+    "color": "#FFD3C2",
+    "kicker": "Step 3",
+    "head": [
+     "Build."
+    ],
+    "body": "We develop it fast, secure and mobile-first, and keep you updated along the way.",
+    "graphic": {
+     "kind": "steps",
+     "active": 3
+    }
+   },
+   {
+    "color": "#FFE9A8",
+    "kicker": "Step 4",
+    "head": [
+     "Launch."
+    ],
+    "body": "We test, publish and connect it to Google so people can find you.",
+    "graphic": {
+     "kind": "steps",
+     "active": 4
+    }
+   },
+   {
+    "color": "#FFC7E4",
+    "kicker": "After launch",
+    "head": [
+     "Support is",
+     "available."
+    ],
+    "body": "Updates, fixes and new features as your business grows.",
+    "graphic": {
+     "kind": "chips",
+     "items": [
+      "Updates",
+      "Fixes",
+      "New features"
+     ]
+    }
+   }
+  ],
+  "cta": {
+   "head": [
+    "Ready for",
+    "step 1?"
+   ],
+   "body": "Tell us about your project. We'll reply with ideas, a plan and a clear quote."
+  }
+ },
+ "p3": {
+  "caption": "🌍 Websites that speak Arabic. Right-to-left, done right.\n\nA real Arabic website is not just a translation:\n\n↔️ The whole layout mirrors, from menus to buttons\n🔤 Arabic needs its own fonts, not an English design squeezed in\n✍️ Native copy sounds natural and builds trust\n🔁 Visitors can switch between English and Arabic in one tap\n\nMany customers in the UAE search in Arabic. Meet them in their language.\n\nNeed a bilingual website? Message us or visit webelle.ae 💚\n\nمواقع تتحدث العربية 🌍\n\n#ArabicWebsite #BilingualWebsite #WebDesign #WebDevelopment #DubaiBusiness #UAE #WeBelle",
+  "cover": {
+   "color": "#D9D2FF",
+   "pill": "Bilingual",
+   "graphic": {
+    "kind": "rtl",
+    "en": "Home",
+    "ar": "الرئيسية"
+   },
+   "head": [
+    "Websites that",
+    "speak Arabic."
+   ],
+   "ar": "مواقع تتحدث العربية",
+   "sub": "Right-to-left, done right."
+  },
+  "slides": [
+   {
+    "color": "#FFD3C2",
+    "kicker": "Not just translation",
+    "head": [
+     "It's a whole",
+     "layout."
+    ],
+    "body": "Arabic reads right to left, so menus, buttons and images mirror too.",
+    "graphic": {
+     "kind": "rtl",
+     "en": "Menu",
+     "ar": "القائمة"
+    }
+   },
+   {
+    "color": "#C7E4FF",
+    "kicker": "Typography",
+    "head": [
+     "Arabic needs",
+     "its own fonts."
+    ],
+    "body": "Good Arabic fonts keep text clear and balanced, instead of squeezed into an English design.",
+    "graphic": {
+     "kind": "ar",
+     "ar": "خط عربي واضح"
+    }
+   },
+   {
+    "color": "#C5F2DC",
+    "kicker": "Native copy",
+    "head": [
+     "Write it,",
+     "don't translate it."
+    ],
+    "body": "Native wording sounds natural and builds trust with Arabic-speaking customers.",
+    "graphic": {
+     "kind": "ar",
+     "ar": "أهلاً بكم"
+    }
+   },
+   {
+    "color": "#FFE9A8",
+    "kicker": "One site",
+    "head": [
+     "Switch language",
+     "in one tap."
+    ],
+    "body": "A bilingual site lets visitors move between English and Arabic easily.",
+    "graphic": {
+     "kind": "chips",
+     "items": [
+      "EN",
+      "AR"
+     ]
+    }
+   },
+   {
+    "color": "#FFC7E4",
+    "kicker": "Why it matters",
+    "head": [
+     "Reach more people",
+     "in the UAE."
+    ],
+    "body": "Many customers search in Arabic. A bilingual site meets them in their language.",
+    "graphic": {
+     "kind": "chips",
+     "items": [
+      "English",
+      "Arabic",
+      "Both"
+     ]
+    }
+   }
+  ],
+  "cta": {
+   "head": [
+    "Need a bilingual",
+    "website?"
+   ],
+   "body": "We design and build in English and Arabic. Tell us about your project."
+  }
+ },
+ "p4": {
+  "caption": "🔎 Is it time for a new website?\n\n5 signs it might be:\n\n🐢 It loads slowly\n📱 It looks bad on phones\n🕰️ It looks outdated\n📞 It's hard to contact you\n📉 It's not bringing in enquiries\n\nA refresh can fix all of these, and you don't have to start from zero.\n\nTell us what's not working and we'll suggest the fix. Message us or visit webelle.ae 💚\n\nهل حان وقت موقع جديد؟ 🔎\n\n#WebsiteDesign #WebDevelopment #WebsiteRedesign #SmallBusiness #DubaiBusiness #UAE #WeBelle",
+  "cover": {
+   "color": "#FFD3C2",
+   "pill": "Website tips",
+   "graphic": {
+    "kind": "chips",
+    "items": [
+     "Slow",
+     "Outdated",
+     "Hard to use"
+    ]
+   },
+   "head": [
+    "Time for a",
+    "new website?"
+   ],
+   "ar": "هل حان وقت موقع جديد؟",
+   "sub": "5 signs it might be."
+  },
+  "slides": [
+   {
+    "color": "#C7E4FF",
+    "kicker": "Sign 1",
+    "head": [
+     "It loads",
+     "slowly."
+    ],
+    "body": "Visitors leave when a page takes too long. A fast site keeps people reading.",
+    "graphic": {
+     "kind": "chips",
+     "items": [
+      "Slow",
+      "Fast"
+     ]
+    }
+   },
+   {
+    "color": "#D9D2FF",
+    "kicker": "Sign 2",
+    "head": [
+     "It looks bad",
+     "on phones."
+    ],
+    "body": "Most visitors browse on mobile, so your site has to work well on small screens.",
+    "graphic": {
+     "kind": "chips",
+     "items": [
+      "Phone",
+      "Tablet",
+      "Desktop"
+     ]
+    }
+   },
+   {
+    "color": "#C5F2DC",
+    "kicker": "Sign 3",
+    "head": [
+     "It looks",
+     "outdated."
+    ],
+    "body": "A dated design can make a good business look less trustworthy.",
+    "graphic": {
+     "kind": "chips",
+     "items": [
+      "Before",
+      "After"
+     ]
+    }
+   },
+   {
+    "color": "#FFE9A8",
+    "kicker": "Sign 4",
+    "head": [
+     "It's hard to",
+     "contact you."
+    ],
+    "body": "Make the next step obvious with a clear button, form or WhatsApp link.",
+    "graphic": {
+     "kind": "chips",
+     "items": [
+      "Call",
+      "WhatsApp",
+      "Form"
+     ]
+    }
+   },
+   {
+    "color": "#FFC7E4",
+    "kicker": "Sign 5",
+    "head": [
+     "It's not",
+     "bringing leads."
+    ],
+    "body": "If nobody enquires, the site isn't doing its job. A refresh can change that.",
+    "graphic": {
+     "kind": "chips",
+     "items": [
+      "Visits",
+      "Enquiries"
+     ]
+    }
+   }
+  ],
+  "cta": {
+   "head": [
+    "Ready for a",
+    "fresh start?"
+   ],
+   "body": "Tell us what's not working and we'll suggest the fix. Message us or visit webelle.ae."
+  }
+ },
+ "p5": {
+  "caption": "📍 Get found on Google: 5 basics\n\n1️⃣ Clear page titles\n2️⃣ Fast, mobile-first pages\n3️⃣ Useful content that answers real questions\n4️⃣ Your business name, area and contact details\n5️⃣ Content in English and Arabic\n\nGood basics make it easier for the right customers to find you.\n\nWant a site built with these in place? Message us or visit webelle.ae 💚\n\nكيف تظهر في بحث جوجل 📍\n\n#SEO #GoogleSearch #WebDevelopment #WebsiteDesign #DubaiBusiness #UAE #WeBelle",
+  "cover": {
+   "color": "#C7E4FF",
+   "pill": "SEO basics",
+   "graphic": {
+    "kind": "chips",
+    "items": [
+     "Search",
+     "Click",
+     "Contact"
+    ]
+   },
+   "head": [
+    "Get found",
+    "on Google."
+   ],
+   "ar": "كيف تظهر في بحث جوجل",
+   "sub": "5 basics that help."
+  },
+  "slides": [
+   {
+    "color": "#C5F2DC",
+    "kicker": "Basic 1",
+    "head": [
+     "Clear page",
+     "titles."
+    ],
+    "body": "Each page should say what it is, so Google and visitors understand it fast.",
+    "graphic": {
+     "kind": "chips",
+     "items": [
+      "Home",
+      "Services",
+      "About"
+     ]
+    }
+   },
+   {
+    "color": "#FFD3C2",
+    "kicker": "Basic 2",
+    "head": [
+     "Fast and",
+     "mobile-first."
+    ],
+    "body": "A quick site that works well on phones is easier to use and easier to find.",
+    "graphic": {
+     "kind": "chips",
+     "items": [
+      "Fast",
+      "Mobile"
+     ]
+    }
+   },
+   {
+    "color": "#D9D2FF",
+    "kicker": "Basic 3",
+    "head": [
+     "Useful",
+     "content."
+    ],
+    "body": "Answer the questions your customers really ask, in plain language.",
+    "graphic": {
+     "kind": "chips",
+     "items": [
+      "Questions",
+      "Answers"
+     ]
+    }
+   },
+   {
+    "color": "#FFE9A8",
+    "kicker": "Basic 4",
+    "head": [
+     "Local",
+     "details."
+    ],
+    "body": "Add your business name, area and contact details so nearby customers can find you.",
+    "graphic": {
+     "kind": "chips",
+     "items": [
+      "Name",
+      "Area",
+      "Phone"
+     ]
+    }
+   },
+   {
+    "color": "#FFC7E4",
+    "kicker": "Basic 5",
+    "head": [
+     "Both",
+     "languages."
+    ],
+    "body": "Content in English and Arabic reaches people whichever language they search in.",
+    "graphic": {
+     "kind": "ar",
+     "ar": "ابحث بالعربية"
+    }
+   }
+  ],
+  "cta": {
+   "head": [
+    "Want to be",
+    "found?"
+   ],
+   "body": "We build with the basics in place and connect your site to Google. Tell us about your business."
+  }
+ }
+}
